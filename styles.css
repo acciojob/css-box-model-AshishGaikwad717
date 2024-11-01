@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+p{
+	text-wrap:break-word;
+	font-family:arial;
+}
+.div3{
+	padding:50px;
+	width:300px;
+	background-color:lightblue;
+	position:absolute;
+	border:50px solid blue;
+	margin:20px;
+}
